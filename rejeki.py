@@ -7,7 +7,7 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
 #kecepatan mengetik
-        time.sleep(random.random() * 0.1)
+        time.sleep(random.random() * 0.2)
 
 
 mengetik(Style.BRIGHT+Fore.GREEN+"\n8 Jenis Rejeki dari ALLAH :")
