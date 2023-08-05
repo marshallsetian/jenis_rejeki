@@ -22,7 +22,7 @@ mengetik("6.Rejeki karena Menikah ... ( An - Nur : 32 )\n")
 mengetik("7.Rejeki karena Anak ... ( Al - Israa : 31 )\n")
 mengetik("8.Rejeki karena Sedekah ... ( Al - Baqarah : 245 )\n\n")
 
-mengetik(Fore.GREEN +"semoga semua Saudara & Teman2 di limpahkan Rejekinya")
+mengetik(Fore.GREEN +"semoga semua Saudara & Teman2 di limpahkan Rejekinya\n")
 
 print(Fore.LIGHTWHITE_EX+"ini adalah akhir dari :")
 mengetik(Fore.LIGHTBLUE_EX+"PROGRAM PYTHON 3.9 BY.MARSHALL_SETIAN")
