@@ -14,7 +14,7 @@ mengetik(Style.BRIGHT+Fore.GREEN+"\n8 Jenis Rejeki dari ALLAH :")
 mengetik(Fore.LIGHTWHITE_EX+"...............................................")
 
 mengetik(Fore.LIGHTYELLOW_EX +"1.Rejeki yang telah diJamin... ( Hud : 6 )\n")
-mengetik(Fore.LIGHTYELLOW_EX +"2.Rejeki karena Bekerja ... ( An - najm : 38 )\n")
+mengetik(Fore.LIGHTYELLOW_EX +"2.Rejeki karena Bekerja ... ( An - Najm : 38 )\n")
 mengetik("3.Rejeki karena Bersyukur ... ( Ibrahim : 7 )\n")
 mengetik("4.Rejeki tak Terduga ... ( At - Thalaq : 2-3 )\n")
 mengetik("5.Rejeki karena Istigfar ... ( Nuh : 10-11 )\n")
