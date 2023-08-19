@@ -18,6 +18,8 @@ sudo apt update && pkg upgrade -y
 sudo apt install git -y
 git clone https://github.com/marshallsetian/jenis_rejeki
 ```
+silahkah di edit script semau kalian...
+semoga bermanfaat buat belajar !!!
 
 
 
