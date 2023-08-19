@@ -8,7 +8,6 @@ pkg install git python -y
 
 ## FOR TERMUX/SSH USER
 ```bash
-
 pkg update && pkg upgrade -y
-
-
+pkg install git python -y
+git clone 
