@@ -10,4 +10,5 @@ pkg install git python -y
 ```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
-git clone 
+git clone https://github.com/marshallsetian/jenis_rejeki
+
