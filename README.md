@@ -5,7 +5,6 @@
 
 ## NOTE
 ini adalah contoh script sederhana membuat script tulisan berjalan dan berwarna
-buat user pertama blm pernah cloning bisa pakai perintah di terminal
 
 pkg install git python -y
 
