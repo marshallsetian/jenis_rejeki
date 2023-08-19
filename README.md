@@ -1,12 +1,13 @@
-# script - tulisan text berjalan - berwarna
+# script -python - tulisan berwarna dan berjalan 
 
 <p align="center">
 <a href="#"><img src="Screenshot from 2023-08-19 10-25-36.png"
 
 ## NOTE
-ini adalah contoh script sederhana membuat script tulisan berjalan dan berwarna
+ini adalah contoh script python sederhana membuat script tulisan berjalan dan berwarna
+modul / ektensi ada yg kurang jika tidak dapat dijalankan di terminal 
+silahkan install modulnya terlebih dahulu..
 
-pkg install git python -y
 
 ## FOR TERMUX/SSH USER
 ```bash
