@@ -11,4 +11,13 @@ pkg install git python -y
 pkg update && pkg upgrade -y
 pkg install git python -y
 git clone https://github.com/marshallsetian/jenis_rejeki
+```
+## FOR LINUX /UBUNTU/DEBIAN
+```bash
+sudo apt update && pkg upgrade -y
+sudo apt install git -y
+git clone https://github.com/marshallsetian/jenis_rejeki
+```
+
+
 
