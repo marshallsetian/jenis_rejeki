@@ -1,5 +1,8 @@
 # script - tulisan text berjalan - berwarna
 
+<p align="center">
+<a href="#"><img src="Screenshot from 2023-08-19 10-25-36.png"
+
 ## NOTE
 ini adalah contoh script sederhana membuat script tulisan berjalan dan berwarna
 buat user pertama blm pernah cloning bisa pakai perintah di terminal
